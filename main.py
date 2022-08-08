@@ -5,10 +5,6 @@ import threading
 
 
 def find_image(img):
-    """Finds the image on the screen and clicks it
-    :param img: name of the image file to find, this should be in the same directory as the main script
-    :return: True if the image was found, False if not
-    """
     img_pos = None
     while img_pos is None:
         try:
