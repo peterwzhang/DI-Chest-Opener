@@ -9,7 +9,8 @@ Once you have the items above, you can follow the instructions below:
 2. Go into the new cloned directory
 3. [Optional] Make a virtual environment and activate it ([click here for help](https://docs.python.org/3/library/venv.html))
 4. Install requirements: `$ pip install -r requirements.txt`
-5. Run: `$ python main.py`
+5. Open your inventory in-game and make sure your chests are visible on screen
+6. Run: `$ python main.py`
 
 ## Notes
 - This has only been tested on Windows 10, with a 1920x1080 resolution. If you use a different resolution, you may have to supply your own images.
